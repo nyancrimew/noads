@@ -268,15 +268,15 @@ def prepare_agh(lines) -> str:
             )
 
             line = re.sub(
-                r"(^|\|\|)\*\.",
-                "",
+                r"^://",
+                "||",
                 line
             )
 
             if len(line) > 0:
-                if line[0] in ['/', '['] or line.startswith('@@/'):
+                if line[0] in ['/', '[', ':', '?', '=', ';'] or line.startswith('@@/'):
                     continue
-                if line[0] not in ['|', '@']:
+                if line[0] not in ['|', '@', '*', '.']:
                     if '.' not in line:
                         # Not a domain, ignore this
                         continue
