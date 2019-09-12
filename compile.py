@@ -10,7 +10,8 @@ LOCAL_SOURCES = [
     'lists/fo-scumware.txt',
     'lists/additional-rules.txt',
     'lists/add-switzerland.txt',
-    'lists/unbreak.txt'
+    'lists/unbreak.txt',
+    'lists/yt-ads.txt'
 ]
 
 SOURCES = [
