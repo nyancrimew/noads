@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  schedule:
+    - cron: 0 23 * * *
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: python3 compile.py
+    - name: Commit changes
+      uses: docker://cdssnc/auto-commit-github-action
+      with:
+        args: Compile rules
+        secrets: [gh_token]
