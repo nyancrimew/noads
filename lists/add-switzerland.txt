@@ -47,3 +47,16 @@
 
 ! Galaxus
 ||galaxus.ch/akam^
+
+! Tamedia
+||tamedia.click^
+
+! APG
+||gotthard.apgsga.ch^
+
+! streamboatserver
+||*.streamboatserver.ch/data/track.php
+
+! infonline.de
+||ioam.de^
+||iocnt.net^
