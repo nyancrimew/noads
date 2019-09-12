@@ -1,0 +1,49 @@
+! Title: noads.online Switzerland specific filters
+! Updated: 2019-09-12
+!
+! QoQa
+||analytics.qoqa.ninja^
+||analytics-sprint.qoqa.com^
+||analytics.qoqa.ch^
+||analytics.qoqa.com^
+
+! Net-Metrix AG
+||wemfbox.ch^
+
+! Local.ch
+||a.local.ch/track^
+
+! Swisscom
+||rcp.scsstatic.ch/etc.clientlibs/cq/testandtarget^
+||rcp.scsstatic.ch/etc.clientlibs/cq/personalization^
+||rcp.scsstatic.ch/etc/designs/portal/resources/0.gif
+||swisscom.ch/etc/segmentation^
+||so.swisscom.ch^
+
+! 20min
+||cpc.cpstatic.ch^
+||beagle.prod.tda.link^
+||tdn.da-services.ch^
+||fooby.ch/de/20mindaily.html
+||www.20min.ch/2010/JS/section_inject.js
+||vv.20min.ch^
+||storage.cpstatic.ch/storage/teaser_20min_superdeal_ad_teasercategory^
+||www.20min.ch/social_story_teaser.json
+
+! Blick
+! Anti-adblock
+||https://www.blick.ch/assets/dist/js/modalMsg-ad*
+||da.admeira.ch^
+
+! Admin.ch
+||admin.ch/etc/designs/core/frontend/analytics.js
+||webstats.ch.ch^
+
+! Landi
+||arc.epoq.de^
+
+! Digitec
+||digitec.ch/akam^
+
+! Galaxus
+||galaxus.ch/akam^
