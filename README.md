@@ -1,6 +1,6 @@
 # noads.online Filterlists
 
-This repository contains most of my personal blocklist projects, as well as the [compiled megalist](http://lists.noads.online/lists/compilation.txt) used by the DNS server I am running (see https://deletescape.ch/dns).
+This repository contains most of my personal blocklist projects, as well as the [compiled megalist](https://lists.noads.online/lists/compilation.txt) used by the DNS server I am running (see https://deletescape.ch/dns).
 
 ## Thanks
 
