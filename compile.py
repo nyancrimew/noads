@@ -4,13 +4,13 @@ import re
 import datetime
 from collections import OrderedDict 
 
-DEBUG = True
+DEBUG = False
 
 LOCAL_SOURCES = [
-    'lists/fo-scumware',
-    'lists/additional-rules',
-    'lists/add-switzerland',
-    'lists/unbreak'
+    'lists/fo-scumware.txt',
+    'lists/additional-rules.txt',
+    'lists/add-switzerland.txt',
+    'lists/unbreak.txt'
 ]
 
 SOURCES = [
@@ -102,7 +102,7 @@ FORBIDDEN_LINES = [
 ]
 
 OUTPUT = 'debug.txt'
-OUTPUT_AGH = 'lists/compilation'
+OUTPUT_AGH = 'lists/compilation.txt'
 
 # function that loads the filter list
 def load_filters() -> str:
