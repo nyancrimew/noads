@@ -24,7 +24,6 @@ SOURCES = [
     'https://gist.githubusercontent.com/BBcan177/2a9fc2548c3c5a5e2dc86e580b5795d2/raw/2f5c90ffb3bd02199ace1b16a0bd9f53b29f0879/EasyList_DE',
     'https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt',
     'https://hosts-file.net/ad_servers.txt',
-    'https://hosts-file.net/emd.txt',
     'https://hosts-file.net/mmt.txt',
     'https://hosts-file.net/pup.txt',
     'https://hosts.nfz.moe/full/hosts',
@@ -62,8 +61,7 @@ SOURCES = [
     'https://sites.google.com/site/cosmonoteshosts/hosts_Ultimate.txt',
     'https://ssl.bblck.me/blacklists/hosts-file.txt',
     'https://v.firebog.net/hosts/Easylist.txt',
-    'https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt',
-    'https://www.malwaredomainlist.com/hostslist/hosts.txt'
+    'https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt'
 ]
 
 UNSUPPORTED_AGH = [
