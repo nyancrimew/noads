@@ -38,7 +38,6 @@ SOURCES = [
     'https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/EasyList-Liste-FR.txt',
     'https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/EasyList-Thailand.txt',
     'https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Filtros-Nauscopicos.txt',
-    'https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt',
     'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts',
     'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts',
     'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts',
