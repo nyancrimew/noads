@@ -97,8 +97,7 @@ FORBIDDEN_LINES = [
     r'^ip6-allnodes( |$)',
     r'^ip6-allrouters( |$)',
     r'^ip6-allhosts( |$)',
-    r'^0.0.0.0( |$)',
-    r'^\*?\.\w+$' # Don't block entire TLDs
+    r'^0.0.0.0( |$)'
 ]
 
 OUTPUT = 'debug.txt'
