@@ -2,7 +2,7 @@ name: CI
 
 on:
   schedule:
-    - cron: 0 23 * * *
+    - cron: 0 0/1 * * *
 
 jobs:
   build:
@@ -14,7 +14,6 @@ jobs:
     - name: Run a one-line script
       run: python3 compile.py
     - name: Commit changes
-      uses: docker://cdssnc/auto-commit-github-action
-      with:
-        args: Compile rules
-        secrets: [gh_token]
+      uses: elstudio/actions-js-build/commit@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.gh_token }}
