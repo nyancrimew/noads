@@ -42,3 +42,8 @@
 @@||b-www.facebook.com^$important
 @@||z-p3-sonar.fdar1-1.fna.fbcdn.net^$important
 @@||graph.instagram.com^$important
+
+! Unbreak The Daily Beast
+@@||thedailybeast.com^$important
+! Don't unbreak their metrics though
+||metrics.thedailybeast.com^$important
