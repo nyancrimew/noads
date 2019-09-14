@@ -47,3 +47,6 @@
 @@||thedailybeast.com^$important
 ! Don't unbreak their metrics though
 ||metrics.thedailybeast.com^$important
+
+! Unbreak JCenter
+@@||d29vzk4ow07wi7.cloudfront.net^$important
