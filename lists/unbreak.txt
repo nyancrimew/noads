@@ -50,3 +50,9 @@
 
 ! Unbreak JCenter
 @@||d29vzk4ow07wi7.cloudfront.net^$important
+
+! Unbreak Buzzfeed
+@@||weaver-api.buzzfeed.com^$important
+@@||www.buzzfeed.com^$important
+@@||img.buzzfeed.com^$important
+@@||spicerack.buzzfeed.com^$important
