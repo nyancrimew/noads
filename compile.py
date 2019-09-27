@@ -79,7 +79,16 @@ UNSUPPORTED_AGH = [
     '$inline-script',
     '$other',
     '$~object',
-    'redirect='
+    'redirect=',
+    ',3p',
+    '$3p',
+    '~third-party',
+    ',third-party',
+    '$third-party',
+    ',first-party',
+    '$first-party',
+    ',1p',
+    '$1p'
 ]
 
 FORBIDDEN_LINES = [
@@ -151,36 +160,6 @@ def prepare_agh(lines) -> str:
                     "",
                     line
                 )
-
-            line = re.sub(
-                r"([$,])third-party",
-                "",
-                line
-            )
-
-            line = re.sub(
-                r"([$,])~third-party",
-                "",
-                line
-            )
-
-            line = re.sub(
-                r"([$,])3p",
-                "",
-                line
-            )
-
-            line = re.sub(
-                r"([$,])first-party",
-                "",
-                line
-            )
-
-            line = re.sub(
-                r"([$,])1p",
-                "",
-                line
-            )
 
             line = re.sub(
                 r"([$,])image",
