@@ -1,5 +1,5 @@
 ! Title: noads.online whitelist
-! Updated: 2019-09-12
+! Updated: 2019-09-27
 !
 # Unbreak Zeplin
 @@||ws-zeplin.pusher.com^$important
