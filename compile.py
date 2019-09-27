@@ -55,7 +55,6 @@ SOURCES = [
     'https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt',
     'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts',
     'https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt',
-    'https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/list.txt',
     'https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt',
     'https://sites.google.com/site/cosmonoteshosts/hosts_Ultimate.txt',
     'https://ssl.bblck.me/blacklists/hosts-file.txt',
