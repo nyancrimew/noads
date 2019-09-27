@@ -48,9 +48,6 @@
 ! Don't unbreak their metrics though
 ||metrics.thedailybeast.com^$important
 
-! Unbreak JCenter
-@@||d29vzk4ow07wi7.cloudfront.net^$important
-
 ! Unbreak Buzzfeed
 @@||weaver-api.buzzfeed.com^$important
 @@||www.buzzfeed.com^$important
