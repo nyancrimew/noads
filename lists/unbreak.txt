@@ -26,6 +26,7 @@
 
 # Unbreak Google stuff
 @@||people-pa.googleapis.com^$important
+@@||gvt1.com^$important
 
 # Unbreak FB apps
 @@||graph.facebook.com^$important
@@ -53,3 +54,15 @@
 @@||www.buzzfeed.com^$important
 @@||img.buzzfeed.com^$important
 @@||spicerack.buzzfeed.com^$important
+
+! Unbreak aerisweather
+@@||aerisapi.com^$important
+@@||api.aerisapi.com^$important
+
+! Unbreak some Snapchat features
+@@||gcp.api.snapchat.com^$important
+
+! Whitelist Simple Analytics
+@@||simpleanalytics.io^$important
+@@||simpleanalytics.com^$important
+@@||simpleanalyticscdn.com^$important
