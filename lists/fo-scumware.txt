@@ -206,6 +206,7 @@
 ||hisecuiritylab.com^
 ||tubeyeah.com^
 ||2sjphgqrci.execute-api.us-east-1.amazonaws.com^
+||gwrtdp-tn690BFAdt.tclclouds.com^
 
 # *** Fuck off iMoblife (umeng?!?!) ***
 ||imoblife.net^
