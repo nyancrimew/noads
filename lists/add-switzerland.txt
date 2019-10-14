@@ -115,3 +115,18 @@
 
 ! Post.ch
 ||post.ch/api/nothing/image^
+
+! Coop.ch
+||coop.ch/etc/designs/seitenrahmen/js/tracking.js
+||coop.ch/bin/coop/common/tealium.js
+
+! UBS
+||analytics.ubs.com^
+||ubs.com/includes/tracking_launch.min.*.min.js
+
+! Raiffeisen
+||raiffeisen.ch/conf/www/settings/wcm/segments.seg.js
+||api.rreports.ch^
+||raiffeisen.ch/etc/segmentation.segment.js
+||statistics.raiffeisen.ch^
+
