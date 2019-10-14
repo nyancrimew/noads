@@ -15,7 +15,7 @@ LOCAL_SOURCES = [
 ]
 
 SOURCES = [
-    'https://1hos.cf/complete.',
+    'https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt',
     'https://280blocker.net/files/280blocker_domain.txt',
     'https://adaway.org/hosts.txt',
     'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
