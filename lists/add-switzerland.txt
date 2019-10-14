@@ -1,5 +1,5 @@
 ! Title: noads.online Switzerland specific filters
-! Updated: 2019-09-12
+! Updated: 2019-10-14
 !
 ! QoQa
 ||analytics.qoqa.ninja^
@@ -38,6 +38,8 @@
 ! Admin.ch
 ||admin.ch/etc/designs/core/frontend/analytics.js
 ||webstats.ch.ch^
+||admin.ch/dam/gov/matomo.js
+||webstats.ch.ch^
 
 ! Landi
 ||arc.epoq.de^
@@ -60,3 +62,56 @@
 ! infonline.de
 ||ioam.de^
 ||iocnt.net^
+
+! Tutti.ch
+||cdn.tutti.ch/*/segment.js
+||cdn.tutti.ch/*/tag-manager.js
+||tutti.worldgravity.com^
+
+! Jobs.ch
+||jobs.ch/api/v1/public/job/impression^
+||jobs.ch/api/v1/public/job/*/hit^
+||jobs.ch/api/v1/public/search?page=*&product=sponsored
+
+! Jobscout24
+||jobscout24.ch/statistics/track^
+||jobs.ch/api/v1/public/job/*/hit^
+||jobscout24.ch/Content/js/trackingpixel.min.js
+||jobscout24.ch/t/*.png
+
+! lu.ch
+||*.web-analytics.ch^
+
+! stadtluzern.ch
+||stadtluzern.ch/compiled/statistics-cms.*.js
+
+! sunrise.ch
+||sunrise.ch/etc.clientlibs/cq/testandtarget/clientlibs/testandtarget/*
+||sunrise.ch/etc.clientlibs/cq/personalization/clientlib/personalization/integrations/*
+
+! nau.ch
+||nau.ch/libs-shared-src-components-video-ad-*.js
+||nau.ch/OneSignalSDKWorker.js
+
+! Watson.ch
+||watson.ch/cc/js/*/ga_datalayer.js
+
+! srf.ch
+||player.srf.ch/media-play-stat/**
+||il.srgssr.ch/integrationlayer/2.0/srf/mediaStatistic/video/*/clicked.json
+||srgsnitch.herokuapp.com/report^
+||srf.ch/socialview-in/store_event^
+
+! nzz.ch
+||gc-ingress-prod.danzz.ch/ws-ingress^
+||track.nzz.ch^
+||tms.nzz.ch/danzz/loggr/pixel^
+||ens.nzz.ch^
+
+! postfinance.ch
+||postfinance.ch/*/dcs.gif
+||postfinance.ch/dcswtid.js
+||postfinance.ch/ap/ga/tag/containers/*.js
+
+! Post.ch
+||post.ch/api/nothing/image^
