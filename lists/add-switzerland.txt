@@ -130,3 +130,10 @@
 ||raiffeisen.ch/etc/segmentation.segment.js
 ||statistics.raiffeisen.ch^
 
+! Adia.com
+||prod-t0-api.adia.com/clientlogger/Log/ClientLogging^
+
+! Profital
+||tracking-receiver-elb.ws-prod.offerista.com/trackings^
+||io.marktjagd.de/trackings^
+||geoserver.barcoo.com/lbs/beacon_definitions^
