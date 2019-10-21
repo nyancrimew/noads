@@ -15,7 +15,5 @@ jobs:
       run: python3 compile.py
     - name: Commit changes
       uses: elstudio/actions-js-build/commit@v2-beta
-      with:
-        commitMessage: 'Recompile list'
       env:
         GITHUB_TOKEN: ${{ secrets.gh_token }}
