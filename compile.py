@@ -62,7 +62,7 @@ SOURCES = [
     'https://sebsauvage.net/hosts/hosts',
     'https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/adsblock.list',
     'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt',
-    'https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/domains.txt'
+    'https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt'
 ]
 
 UNSUPPORTED_AGH = [
