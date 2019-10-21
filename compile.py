@@ -66,6 +66,8 @@ SOURCES = [
     'https://hblock.molinero.dev/hosts',
     'https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts',
     'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt',
+    'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt',
+    'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt',
     'https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt'
 ]
 
