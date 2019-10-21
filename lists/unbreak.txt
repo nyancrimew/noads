@@ -46,6 +46,8 @@
 @@||z-p3-sonar.fdar1-1.fna.fbcdn.net^$important
 @@||graph.instagram.com^$important
 @@||instagram.*.fna.fbcdn.net^$important
+@@||static.xx.fbcdn.net^$important
+@@||scontent.*.fna.fbcdn.net^$important
 
 ! Unbreak The Daily Beast
 @@||thedailybeast.com^$important
