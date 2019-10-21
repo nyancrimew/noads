@@ -59,7 +59,9 @@ SOURCES = [
     'https://sites.google.com/site/cosmonoteshosts/hosts_Ultimate.txt',
     'https://ssl.bblck.me/blacklists/hosts-file.txt',
     'https://v.firebog.net/hosts/Easylist.txt',
-    'https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt'
+    'https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt',
+    'https://sebsauvage.net/hosts/hosts',
+    'https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/adsblock.list'
 ]
 
 UNSUPPORTED_AGH = [
