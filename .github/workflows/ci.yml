@@ -1,8 +1,6 @@
-name: Nightly
+name: CI/CD
 
-on:
-  schedule:
-    - cron: 0 20 * * *
+on: [push]
 
 jobs:
   build:
@@ -12,6 +10,6 @@ jobs:
     - name: Rebuild list
       run: python3 compile.py
     - name: Commit changes
-      run: bash commit.sh
+      run: bash commitifneeded.sh
       env:
         GITHUB_TOKEN: ${{ secrets.gh_token }}
