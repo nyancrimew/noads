@@ -65,10 +65,18 @@ SOURCES = [
     'https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt',
     'https://hblock.molinero.dev/hosts',
     'https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts',
-    'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt',
     'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt',
     'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt',
-    'https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt'
+    'https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt',
+    'https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt',
+    'http://www.sysctl.org/cameleon/hosts',
+    'https://raw.githubusercontent.com/elaur/laur-hosts/master/laur-hosts.txt',
+    'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts',
+    'http://pgl.yoyo.org/as/serverlist.php?hostformat=adblockplus;showintro=0',
+    'https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt',
+    'https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt',
+    'https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt',
+    'http://malwaredomains.lehigh.edu/files/immortal_domains.txt',
 ]
 
 UNSUPPORTED_AGH = [
