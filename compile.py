@@ -60,7 +60,11 @@ SOURCES = [
     'https://v.firebog.net/hosts/Easylist.txt',
     'https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt',
     'https://sebsauvage.net/hosts/hosts',
-    'https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/adsblock.list',
+    'https://phishing.army/download/phishing_army_blocklist.txt',
+    'http://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt',
+    'https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt',
+    'https://hblock.molinero.dev/hosts',
+    'https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts',
     'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt',
     'https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt'
 ]
@@ -108,6 +112,7 @@ FORBIDDEN_LINES = [
     r'^ip6-allrouters( |$)',
     r'^ip6-allhosts( |$)',
     r'^0.0.0.0( |$)'
+    r'^127.0.0.1( |$)'
 ]
 
 OUTPUT = 'debug.txt'
