@@ -64,8 +64,10 @@
 @@||aerisapi.com^$important
 @@||api.aerisapi.com^$important
 
-! Unbreak some Snapchat features
+! Unbreak Snapchat
 @@||gcp.api.snapchat.com^$important
+@@||bolt-gcdn.sc-cdn.net^$important
+@@||cf-st.sc-cdn.net^$important
 
 ! Whitelist Simple Analytics
 @@||simpleanalytics.io^$important
@@ -82,7 +84,3 @@
 
 ! Unbreak OnePlus OTA updates
 @@||open.oneplus.net^$important
-
-! Unbreak Aersis weather
-@@||aerisapi.com^$important
-@@||api.aerisapi.com^$important
