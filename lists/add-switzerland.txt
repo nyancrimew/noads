@@ -1,5 +1,5 @@
 ! Title: noads.online Switzerland specific filters
-! Updated: 2019-10-14
+! Updated: 2019-10-22
 !
 ! QoQa
 ||analytics.qoqa.ninja^
@@ -137,3 +137,27 @@
 ||tracking-receiver-elb.ws-prod.offerista.com/trackings^
 ||io.marktjagd.de/trackings^
 ||geoserver.barcoo.com/lbs/beacon_definitions^
+
+! CSS
+||css.ch/*/home.tracking.dynamic.js
+||css.ch/designs/*/tracking.min.js
+||css.ch/designs/*/css/javascript/tracking/tracking.bundle.js
+||css.ch/designs/ie/shared/mobilebanner.clientlib.min.css
+||css.ch/designs/ie/shared/mobilebanner.clientlib.min.js
+
+! Mobiliar
+||mobiliar.ch/modules/custom/mobi_tealium/js/mobi_tealium.js
+||mobiliar.ch/modules/custom/mobi_tealium/js/mobi_tealium_tracking.js
+
+! Teleboy
+||teleboy.ch/assets/js/werbung.ad.dc2.adtech.de.addyn.js
+teleboy.ch##.teaser-promo
+
+! Fenaco
+||fenaco.com/sites/default/files/google_tag/google_tag.script.js
+
+! Axa
+||tagcommander.com^
+
+! Schindler
+||schindler.com/etc/clientlibs/schindler/analytics.min.js
