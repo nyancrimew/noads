@@ -1,5 +1,5 @@
 ! Title: noads.online whitelist
-! Updated: 2019-10-21
+! Updated: 2019-10-22
 !
 # Unbreak Zeplin
 @@||ws-zeplin.pusher.com^$important
@@ -84,3 +84,7 @@
 
 ! Unbreak OnePlus OTA updates
 @@||open.oneplus.net^$important
+
+! Unbreak Spotify
+@@||spclient.wg.spotify.com^$important
+@@||apresolve.spotify.com^$important
