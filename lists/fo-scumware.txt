@@ -147,6 +147,7 @@
 ||appcloudbox.net^
 ||ihandygroup.com^
 ||adcaffe.com^
+||ihandysoft.com^
 
 # *** Fuck off DU Apps/DO Global (Baidu) ***
 ||duapps.com^
