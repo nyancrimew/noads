@@ -77,6 +77,7 @@ SOURCES = [
     'https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt',
     'https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt',
     'http://malwaredomains.lehigh.edu/files/immortal_domains.txt',
+    'https://raw.githubusercontent.com/Cybo1927/Hosts/master/Hosts',
 ]
 
 UNSUPPORTED_AGH = [
