@@ -1,5 +1,5 @@
 ! Title: noads.online additional app specifc rules
-! Updated: 2019-09-12
+! Updated: 2019-12-12
 ! Description: Ads and tracking not found on other lists included in this project
 !
 ## QoQa
@@ -15,3 +15,25 @@
 ## Lifesum
 ||lifesum-mobiletracksdk.optimove.net^$important
 ||gateway-eu.optimove.events^$important
+## TikTok
+||applog.musical.ly^
+||xlog-va.musical.ly^
+||log2.musical.ly^
+||frontier.musical.ly^
+||dns.google.com/resolve?name=*.musical.ly
+## Google
+||recommendationengine.googleapis.com/*/catalogs/default_catalog/userEvents:collect^
+||growth-pa.googleapis.com^
+||www.google.com/log^
+||assistant.google.com/_/AssistantSettingsWebFeaturesRoutinesUi/browserinfo^
+# Used for block evasion (needs investigation, whether apps will break)
+||dns.google.com^
+||dns.google^
+## LinkedIn
+||www.linkedin.com/sensorCollect^
+||www.linkedin.com/li/track^
+||www.linkedin.com/cross-promo-fe^
+||www.linkedin.com/voyager/api/growth^
+## Strava
+||c.strava.com/com.snowplowanalytics.snowplow/tp2^
+||tracing-collector.strava.com^
