@@ -1,5 +1,5 @@
 ! Title: noads.online whitelist
-! Updated: 2019-10-22
+! Updated: 2019-12-15
 !
 # Unbreak Zeplin
 @@||ws-zeplin.pusher.com^$important
@@ -88,3 +88,6 @@
 ! Unbreak Spotify
 @@||spclient.wg.spotify.com^$important
 @@||apresolve.spotify.com^$important
+
+! Unbreak AMP
+@@||*.ampproject.org^$important
