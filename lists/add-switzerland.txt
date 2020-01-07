@@ -19,6 +19,10 @@
 ||rcp.scsstatic.ch/etc/designs/portal/resources/0.gif
 ||swisscom.ch/etc/segmentation^
 ||so.swisscom.ch^
+||swisscom.ch/oce/gp/v1/oce_gp_common/logs^
+||swisscom.ch/sdc/odl^
+! Swisscom myCloud
+||mycloud.ch/analytics^
 
 ! 20min
 ||cpc.cpstatic.ch^
@@ -46,9 +50,11 @@
 
 ! Digitec
 ||digitec.ch/akam^
+||digitec.ch/_next/static/chunks/appinsights.*.js^
 
 ! Galaxus
 ||galaxus.ch/akam^
+||galaxus.ch/_next/static/chunks/appinsights.*.js^
 
 ! Tamedia
 ||tamedia.click^
@@ -161,3 +167,8 @@ teleboy.ch##.teaser-promo
 
 ! Schindler
 ||schindler.com/etc/clientlibs/schindler/analytics.min.js
+
+! Brack
+||i.brack.ch/utag^
+||brack.ch/akam^
+||h.brack.ch^
