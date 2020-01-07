@@ -1,5 +1,5 @@
 ! Title: noads.online Switzerland specific filters
-! Updated: 2019-10-22
+! Updated: 2020-01-08
 !
 ! QoQa
 ||analytics.qoqa.ninja^
@@ -172,3 +172,24 @@ teleboy.ch##.teaser-promo
 ||i.brack.ch/utag^
 ||brack.ch/akam^
 ||h.brack.ch^
+
+! Newsnet/24heures
+/newsnet/in.gif^
+||track.24heures.ch^
+
+! Swiss IT Magazine
+itmagazine.ch###rector2
+itmagazine.ch###sky_panel
+
+! Basler Kantonalbank
+||bkb.ch/Assets/js/aa^
+
+! GMX
+||wa.gmx.ch/gmx/gmx/s^
+
+! Permaleads
+||api.permaleads.ch^
+
+! Smood
+||sockets.smood.ch/socket.io^
+||t.smood.ch^
