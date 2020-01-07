@@ -37,3 +37,15 @@
 ## Strava
 ||c.strava.com/com.snowplowanalytics.snowplow/tp2^
 ||tracing-collector.strava.com^
+## Bugsnag
+/bugsnag.min.js
+## Sentry
+||sentry-cdn.com^
+## Tiqcdn
+||tags.tiqcdn.com^
+## Liveperson
+||lptag.liveperson.net^
+||lo.v.liveperson.net/api/js/*^
+## Zedo
+||secure.converto.com/img/bh.gif^
+||saxp.zedo.com/img/bh.gif^
