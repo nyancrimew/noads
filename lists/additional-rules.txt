@@ -49,3 +49,6 @@
 ## Zedo
 ||secure.converto.com/img/bh.gif^
 ||saxp.zedo.com/img/bh.gif^
+
+## Wordpress plugins
+^wp-content/plugins/google-analytics-dashboard-for-wp/front/js^
