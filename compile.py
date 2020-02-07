@@ -14,7 +14,7 @@ LOCAL_SOURCES = [
 ]
 
 SOURCES = [
-    'https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt',
+    #'https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt',
     'https://280blocker.net/files/280blocker_domain.txt',
     'https://adaway.org/hosts.txt',
     'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
@@ -43,7 +43,6 @@ SOURCES = [
     'https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/evil-domains.txt',
     'https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt',
     'https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/blocklist.txt',
-    'https://raw.githubusercontent.com/jwinnie/acceptable-ads/master/filters.txt',
     'https://raw.githubusercontent.com/marktron/fakenews/master/fakenews',
     'https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts',
     'https://raw.githubusercontent.com/miyurusankalpa/adblock-list-sri-lanka/master/lkfilter.txt',
@@ -62,15 +61,11 @@ SOURCES = [
     'https://sebsauvage.net/hosts/hosts',
     'https://phishing.army/download/phishing_army_blocklist.txt',
     'http://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt',
-    'https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt',
     'https://hblock.molinero.dev/hosts',
     'https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts',
-    'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt',
     'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt',
-    'https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt',
     'https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt',
     'http://www.sysctl.org/cameleon/hosts',
-    'https://raw.githubusercontent.com/elaur/laur-hosts/master/laur-hosts.txt',
     'https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts',
     'http://pgl.yoyo.org/as/serverlist.php?hostformat=adblockplus;showintro=0',
     'https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt',
