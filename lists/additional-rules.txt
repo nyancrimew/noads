@@ -1,5 +1,5 @@
 ! Title: noads.online additional app specifc rules
-! Updated: 2019-12-12
+! Updated: 2020-02-16
 ! Description: Ads and tracking not found on other lists included in this project
 !
 ## QoQa
@@ -52,3 +52,7 @@
 
 ## Wordpress plugins
 ^wp-content/plugins/google-analytics-dashboard-for-wp/front/js^
+
+## ClevGuard/KidGuard
+||clevguard.com^
+||api.clevguard.com^
