@@ -1,5 +1,5 @@
 ! Title: noads.online anti scumware list
-! Updated: 2019-10-01
+! Updated: 2020-03-13
 !
 
 # *** Fuck off CMCM ***
@@ -297,6 +297,7 @@
 ||speedspace.online^
 ||50dirham.com^
 ||perfectdevelopers.xyz^
+||sailinglabapps.com^
 
 # *** Fuck off Nexperian ***
 ||ht5game.com^
