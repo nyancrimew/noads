@@ -197,6 +197,7 @@
 ||noxhunter.com^
 ||noxjoy.com^
 ||bignox.com^
+||topappstudio.com^
 
 # *** Fuck off Hawk Internet (eHawk / Hi Security) ***
 # This company is owned by TCL and developer of some alcatel stock apps...
@@ -298,6 +299,7 @@
 ||50dirham.com^
 ||perfectdevelopers.xyz^
 ||sailinglabapps.com^
+||zhuilai.com.cn^
 
 # *** Fuck off Nexperian ***
 ||ht5game.com^
