@@ -292,6 +292,10 @@
 ||calmyourmind.asia^
 ||mobileappsdownload.net^
 
+# *** Fuck off App Annie ***
+||mobidia.com^
+||api.smart-sense.org^
+
 # *** Fuck off random small players ***
 # Most of these are probably part of a larger player as well but I can't find the connection (yet)
 ||vmcleaner.info^
