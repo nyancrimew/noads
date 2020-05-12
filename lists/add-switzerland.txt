@@ -1,5 +1,5 @@
 ! Title: noads.online Switzerland specific filters
-! Updated: 2020-01-08
+! Updated: 2020-05-12
 !
 ! QoQa
 ||analytics.qoqa.ninja^
@@ -193,3 +193,6 @@ itmagazine.ch###sky_panel
 ! Smood
 ||sockets.smood.ch/socket.io^
 ||t.smood.ch^
+
+! Pyrotechnik.ch
+pyrotechnik.ch###sidebar_ads_container
