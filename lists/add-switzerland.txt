@@ -197,3 +197,6 @@ itmagazine.ch###sky_panel
 
 ! Pyrotechnik.ch
 pyrotechnik.ch###sidebar_ads_container
+
+! ZKB/frankly.
+||samcp.zkb.ch^
