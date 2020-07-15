@@ -1,5 +1,5 @@
 ! Title: noads.online Switzerland specific filters
-! Updated: 2020-05-12
+! Updated: 2020-07-15
 !
 ! QoQa
 ||analytics.qoqa.ninja^
@@ -21,6 +21,7 @@
 ||so.swisscom.ch^
 ||swisscom.ch/oce/gp/v1/oce_gp_common/logs^
 ||swisscom.ch/sdc/odl^
+||mdl.swisscom.ch/analytics/at.js^
 ! Swisscom myCloud
 ||mycloud.ch/analytics^
 
